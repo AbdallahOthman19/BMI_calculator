@@ -1,6 +1,10 @@
-windows/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-ios/* linguist-vendored
-android/* linguist-vendored
-web/* linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
